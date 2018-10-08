@@ -1,0 +1,2 @@
+#pattern  filter=crypt diff=crypt
+script01.sh filter=crypt diff=crypt
